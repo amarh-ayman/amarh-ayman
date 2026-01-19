@@ -1,43 +1,101 @@
-#Hi 🤗
-<br><br>
-## About Me
+# Hi, I’m Amarah Bishtawi 👋  
+### Full-Stack Web Developer | Web Security Focus 🔐
 
-Hello! I'm Amarah Bishtawi, a passionate frontend and backend developer with a strong focus on creating engaging and user-friendly web applications. I have 2 years of experience in the field and enjoy building robust and scalable solutions.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNtN3B4am01ajZob25ybzlsazJydWp2ZTB5eDY5ZHd5bzU0NWI1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="420" alt="Coding animation"/>
+</p>
 
-### Frontend Development
+---
 
-In frontend development, I specialize in HTML, CSS, SCSS, Liquid JS, jQuery and JavaScript. I have a deep understanding of modern frontend frameworks like React and Angular, and I'm proficient in using tools such as Webpack and Babel to optimize the development process. I strive to create clean and efficient code while ensuring cross-browser compatibility and responsive design.
+## 🚀 Professional Summary
 
-### Backend Development
+I’m a **Full-Stack Web Developer** with **4+ years of experience** building **secure, scalable, and user-centric web applications**.  
+My work combines **modern frontend engineering**, **robust backend systems**, and a **strong security-first mindset**.
 
-On the backend, I have expertise in working with popular programming languages like Python and JavaScript (Node.js). I am experienced in designing and developing RESTful APIs and have a good understanding of databases, including SQL and NoSQL. I'm familiar with frameworks like Express.js and Django, which enable me to create powerful and efficient server-side applications.
+🎯 **Current focus:** Web Security, secure APIs, and production-grade applications  
+🌍 **Open to:** Open-source collaboration, freelance work, and full-time roles
 
-### Full-Stack Proficiency
+---
 
-Being a full-stack developer, I excel in bridging the gap between frontend and backend technologies. I have hands-on experience in integrating frontend interfaces with backend functionality, ensuring seamless communication and data flow. This allows me to build end-to-end solutions that meet both user requirements and technical specifications.
+## 🎓 Education & Security Focus
 
-### Problem Solving and Collaboration
+- **Master’s focus in Web Security**
+- Practical knowledge of:
+  - OWASP Top 10 vulnerabilities
+  - Authentication & authorization flows
+  - Secure REST API design
+  - Data validation & protection
+  - Encryption fundamentals
+    
+- **Certified OCA**
 
-I am a strong problem solver and enjoy tackling complex challenges. I believe in writing clean, maintainable code and following best practices. I am also an effective communicator and enjoy collaborating with cross-functional teams to deliver high-quality software solutions.
+Security is not an afterthought — it’s part of my design process.
 
+---
 
-If you're interested in working together or have any questions, feel free to reach out to me. I'm always eager to connect with like-minded developers and explore new opportunities.
+## 🛠️ Tech Stack
 
-Happy coding!
+### Frontend
+- HTML5, CSS3, SCSS  
+- JavaScript (ES6+)  
+- React, Angular  
+- jQuery, Liquid JS  
+- Responsive & accessible UI design  
 
-╔══════════════╗
-║              ║
-║   Coding ... ║
-║              ║
-╚══════════════╝
+### Backend
+- Node.js, Python  
+- Express.js, Django  
+- RESTful APIs  
+- SQL & NoSQL databases  
 
+### Tooling & Practices
+- Git & GitHub  
+- Webpack, Babel  
+- Clean Architecture  
+- Secure coding best practices  
 
-<br><br>
+---
 
+## 🧩 What I Bring to a Team
 
-[![amarah's status](https://github-readme-stats.vercel.app/api?username=amarh-ayman&show_icons=true&theme=tokyonight)]([https://github.com/abdullah-alsawalmeh/github-readme-stats](https://github-readme-stats.vercel.app/api?username=amarh-ayman&show_icons=true&theme=tokyonight))
-<br><br>
-[![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=amarh-ayman&show_icons=true&theme=tokyonight)]([https://github.com/abdullah-alsawalmeh/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarh-ayman&show_icons=true&theme=tokyonight)https://github-readme-stats.vercel.app/api/top-langs/?username=amarh-ayman&show_icons=true&theme=tokyonight)
+- Ability to own features **end-to-end**
+- Strong debugging & problem-solving skills
+- Clean, readable, and maintainable code
+- Clear communication in technical & non-technical contexts
+- Passion for learning, reviewing code, and improving systems
 
+---
 
+## 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amarh-ayman&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarh-ayman&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarh-ayman&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Open-Source & Collaboration
+
+I enjoy contributing to open-source projects, improving documentation, fixing bugs, and building reusable components.  
+If you’re working on something interesting — especially related to **web security or scalable systems** — I’d love to collaborate.
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 Open to professional opportunities
+- 🔐 Interested in security-focused projects
+- 🌍 Always happy to collaborate or review code
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNtN3B4am01ajZob25ybzlsazJydWp2ZTB5eDY5ZHd5bzU0NWI1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Rock coding gif"/>
+</p>
 
